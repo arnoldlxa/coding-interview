@@ -3,6 +3,7 @@ A complete computer science study plan to become a student in graduate school.�
 ## 这是？
 这是我为了从 编程爱好者（自学、非计算机科学学位）蜕变至 计算机专业研究生所制定的计划，其内容历时数月。
 ## 目录
+- [关于英语口语-二语习得](#关于英语口语-二语习得)
 - [这是？](#这是)
 - [为何要用到它？](#为何要用到它)
 - [如何使用它](#如何使用它)
@@ -19,6 +20,10 @@ A complete computer science study plan to become a student in graduate school.�
 
 
 ---
+## 关于英语口语-二语习得
+一：二语习得关键在于可理解输入 i + 1
+1：先利用一些简单，吐字比较清晰的歌曲输入可理解输入（一首歌曲输入比较小，在于利用零碎的时间，可以在吃饭，走路时带上耳机即可）
+-Never on Sunday Apr-4-27
 
 ## 为何要用到它？
 
