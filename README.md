@@ -28,7 +28,10 @@ A complete computer science study plan to become a student in graduate school.�
 - Sealed with a Kiss Apr-4-25
 - God is a girl Apr-4-26
 - Never on Sunday Apr-4-27
-
+- Something Just Like This Apr-4-28
+- You Raise Me Up Apr-4-29
+- Wing rider Apr-4-30
+- Take Me to Your Hear May-1
 ## 为何要用到它？
 
 
