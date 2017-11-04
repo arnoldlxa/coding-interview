@@ -36,13 +36,13 @@ A complete computer science study plan to become a student in graduate school.�
 ## 关于英语阅读的训练
 ### 初级训练50+
 Nate The Great《大侦探内特》
-- 1. Nate the Great
-​- 2. Nate the Great Goes Undercover
+- ​1. Nate the Great
+- ​2. Nate the Great Goes Undercover
 - ​3. Nate the Great and the Lost List
-- 4. Nate the Great and the Phony Clue
-- 5. Nate the Great and the Sticky Case
+- ​4. Nate the Great and the Phony Clue
+- ​5. Nate the Great and the Sticky Case
 - ​6. Nate the Great and the Missing Key
-- 7. Nate the Great and the Snowy Trail
+- ​7. Nate the Great and the Snowy Trail
 - ​8. Nate the Great and the Fishy Prize
 - ​9. Nate the Great Stalks Stupidweed
 - ​10. Nate the Great and the Boring Beach Bag
@@ -52,7 +52,7 @@ Nate The Great《大侦探内特》
 - ​14. Nate the Great and the Stolen Base
 - ​15. Nate the Great and the Pillow Case
 - ​16. Nate the Great and the Mushy Valentine
-- 17. Nate the Great and the Tardy Tortoise
+- ​17. Nate the Great and the Tardy Tortoise
 - ​18. Nate the Great and the Crunchy Christmas
 - ​19. Nate the Great Saves the King of Sweden
 - ​20. Nate the Great and Me: The Case of the Fleeing Fang
@@ -85,7 +85,7 @@ Nate The Great《大侦探内特》
 - Magic Tree House 20.Dingoes at Dinnertime
 - Magic Tree House 21.Civil War on Sunday
 - Magic Tree House 22.Revolutionary war on Wednesday
-- Magic Tree House 23.Twister on Tuesday 
+- Magic Tree House 23.Twister on Tuesday
 - Magic Tree House 24.Earthquake in the Early Morning
 - Magic Tree House 25.Stage Fright On A Summer Night
 - Magic Tree House 26.Good Morning, Gorillas
@@ -110,10 +110,10 @@ Nate The Great《大侦探内特》
 - Magic Tree House 45.A Crazy Day with Cobras
 - Magic Tree House 46.Dogs in the Dead of the Night
 - Magic Tree House 47.Abe Lincoln at Last!
-- Magic Tree House 48.A Perfect Time for Pandas 
+- Magic Tree House 48.A Perfect Time for Pandas
 - Magic Tree House 49.Stallion by Starlight
 - Magic Tree House 50.Hurry Up!Houdini
-- Magic Tree House 51.High Time for Heroes 
+- Magic Tree House 51.High Time for Heroes
 - Magic Tree House 52.Soccer on Sunday
 
 
