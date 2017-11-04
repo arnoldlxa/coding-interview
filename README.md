@@ -35,6 +35,7 @@ A complete computer science study plan to become a student in graduate school.�
 - Take Me to Your Hear May-1
 ## 关于英语阅读的训练
 ### 初级训练50+
+
 Nate The Great《大侦探内特》
 - ​1. Nate the Great
 - ​2. Nate the Great Goes Undercover
@@ -62,7 +63,8 @@ Nate The Great《大侦探内特》
 - ​24. Nate the Great on the Owl Express
 - ​25. Nate the Great Talks Turkey
 - ​26. Nate the Great and the Hungry Book Clu
-神奇树屋
+
+Magic Tree House 神奇树屋
 - Magic Tree House 01.Dinosaurs Before Dark
 - Magic Tree House 02.The Knight at Dawn
 - Magic Tree House 03.Mummies in the morning
