@@ -1,4 +1,4 @@
-# coding-interview-university
+# coding-interview
 A complete computer science study plan to become a student in graduate school.一套完整的学习手册帮助自己准备实现编程开发之路
 ## 这是？
 这是一份行动计划守则
